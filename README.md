@@ -35,4 +35,5 @@ Este projeto implementa o c√°lculo da **Kernel Density Estimation (KDE)** em tr√
 Para enviar arquivos para o supercomputador, use o seguinte comando no **Git Bash**:
 
 ```bash
-$ scp /c/Users/MICHELLE/script/kernel_density_estimation4.py tei24801@rolf.ipbeja.pt:/home/alunos/tei/2024/tei24801/
+scp /c/Users/USUARIO_EXEMPLO/script/exemplo.py usuario_ficticio@rolf.ficticio.pt:/home/alunos/tei/2024/usuario_ficticio/
+
